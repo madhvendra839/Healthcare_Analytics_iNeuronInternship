@@ -3,14 +3,16 @@ The goal of this project is to analyse the heart disease
 occurrence, based on a combination of features that
 describes the heart disease.
 
-# Poblem Statement 
+# Problem Statement 
 Health is real wealth in the pandemic time we all realized the
 brute effects of covid 19 on all irrespective of any status. You
 are required to analyse this health and medical data for
 better future preparation.
 
 # Dataset
-https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3YQ8
+https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8?usp=sharing
+
+
 
 # Technology 
 -Business Intelligence
@@ -21,13 +23,13 @@ https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3YQ8
 Healthcare
 
 # Project Difficulty level
-Intermediate
+Advanced
   
 # Programming Language
 Python
   
 # Tools
-Google Colab , Power BI
+Google Colab , Flask .
   
 # Conclusion
 ➢People suffering from heart disease constitutes of 54% of the total 
